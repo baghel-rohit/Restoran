@@ -36,7 +36,7 @@ restoran/
 
 1. Clone the repo
 
-git clone https://github.com/your-username/restoran.git
+git clone https://github.com/baghel-rohit/restoran.git
 
 
 2. Open in your browser
