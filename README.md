@@ -76,7 +76,7 @@ Demo/portfolio for web developers
 
 For suggestions or collaboration, feel free to reach out:
 Rohit Baghel
-📧 rohit@example.com (replace with your actual contact email or GitHub profile)
+📧 info.rohitbaghel@gmail.com
 
 
 Give it a ⭐ if you like this project!
