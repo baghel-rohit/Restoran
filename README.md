@@ -22,15 +22,15 @@ A modern, mobile-friendly website template built with HTML, CSS, and JavaScript 
 
 📁 Project Structure
 
-restoran/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── [All image assets]
-└── README.md
+restoran/br
+├── index.htmlbr
+├── css/br
+│   └── style.cssbr
+├── js/br
+│   └── script.jsbr
+├── images/br
+│   └── [All image assets]br
+└── README.mdbr
 
 🚀 How to Use
 
