@@ -19,10 +19,11 @@ A modern, mobile-friendly website template built with HTML, CSS, and JavaScript 
 
 ![Screenshot 2025-06-17 121015](https://github.com/user-attachments/assets/75757674-5cbe-4f27-b602-54e131fee0eb)
 ![Screenshot 2025-06-17 121026](https://github.com/user-attachments/assets/c374c7b7-99da-4548-af34-c61ebe593b29)
-![Screenshot 2025-06-17 121121](https://github.com/user-attachments/assets/8e9dbb83-d660-49a8-822e-6466ae95e3fa)
-![Screenshot 2025-06-17 121109](https://github.com/user-attachments/assets/cd38ed89-3f2e-437f-8f20-71da97078aaa)
-![Screenshot 2025-06-17 121058](https://github.com/user-attachments/assets/9fc4f4ce-224b-4586-8a92-58732caf2069)
 ![Screenshot 2025-06-17 121050](https://github.com/user-attachments/assets/bb586daf-5c92-4a18-a6ce-e3e43b5a1711)
+![Screenshot 2025-06-17 121058](https://github.com/user-attachments/assets/9fc4f4ce-224b-4586-8a92-58732caf2069)
+![Screenshot 2025-06-17 121109](https://github.com/user-attachments/assets/cd38ed89-3f2e-437f-8f20-71da97078aaa)
+![Screenshot 2025-06-17 121121](https://github.com/user-attachments/assets/8e9dbb83-d660-49a8-822e-6466ae95e3fa)
+
 
 
 📁 Project Structure
